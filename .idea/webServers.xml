@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d3840fca-9bab-4c22-ab4d-4d19a4057b6e" name="local-server" url="https://10.61.138.72:8443/web-ui-template">
+        <fileTransfer mountedRoot="D:\DATA\Setup\apache-tomcat-7.0.69\webapps\web-ui-template" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
